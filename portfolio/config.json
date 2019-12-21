@@ -3,7 +3,7 @@
   "description": "Creative Agency",
   "logo": "/upload/MM_Logo.png",
   "footer": "Ⓒ Acme",
-  "favicon": "favicon-32x32.png",
+  "favicon": "/upload/MM_Logo.png",
   "navigation": [
     {
       "text": "Journal",
